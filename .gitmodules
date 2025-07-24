@@ -1,3 +1,6 @@
 [submodule "fixkan-app-backend"]
 	path = fixkan-app-backend
 	url = https://github.com/zainalsaputra/fixkan-app-backend
+[submodule "FixKan-App"]
+	path = FixKan-App
+	url = https://github.com/furqonnurbarilyahya/FixKan-App
